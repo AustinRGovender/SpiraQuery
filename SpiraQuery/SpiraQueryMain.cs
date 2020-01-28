@@ -11,7 +11,7 @@ namespace SpiraQuery
         private const string DownloadPrompt = "Do you want to download a list of Test Cases?  y/n";
         private const string DownloadPromptInci = "Do you want to download a list of Incidents?  y/n";
         private const string DownloadPromptReq = "Do you want to download a list of Requirements?  y/n";
-        private const string ConnectionPrompt = "\r\n" + "*** Connection Established Successfully *** " +"\r\n";
+        private const string ConnectionPrompt = "\r\n" + "*** Connection Established Successfully *** " + "\r\n";
         private const string ExitPrompt = "Press any key to exit. .";
         private const string TestCaseFilePath = @"\SpiraFolder\TestCaseList.csv";
         private const string IncidentStatsPath = @"\SpiraFolder\IncidentStats.csv";
@@ -28,6 +28,8 @@ namespace SpiraQuery
         static void Main(string[] args)
         {
 
+            //establish connections
+
             EstablishConnection();
 
             Console.WriteLine(ExitPrompt);
@@ -40,7 +42,7 @@ namespace SpiraQuery
             try
             {
 
-                Console.WriteLine("Version 1.31"); 
+                Console.WriteLine("Version 1.31");
                 Console.WriteLine(SpiraQueryAscii);
                 System.Threading.Thread.Sleep(2000);
                 Console.ForegroundColor = ConsoleColor.Green;
