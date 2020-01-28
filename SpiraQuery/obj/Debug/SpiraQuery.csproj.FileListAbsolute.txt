@@ -1,0 +1,16 @@
+C:\Users\augov\Desktop\ForThembsExecuteSQLBat\SpiraQuery\SpiraQuery\bin\Debug\SpiraQuery.exe.config
+C:\Users\augov\Desktop\ForThembsExecuteSQLBat\SpiraQuery\SpiraQuery\bin\Debug\SpiraQuery.exe
+C:\Users\augov\Desktop\ForThembsExecuteSQLBat\SpiraQuery\SpiraQuery\bin\Debug\SpiraQuery.pdb
+C:\Users\augov\Desktop\ForThembsExecuteSQLBat\SpiraQuery\SpiraQuery\obj\Debug\SpiraQuery.csproj.CoreCompileInputs.cache
+C:\Users\augov\Desktop\ForThembsExecuteSQLBat\SpiraQuery\SpiraQuery\obj\Debug\SpiraQuery.exe
+C:\Users\augov\Desktop\ForThembsExecuteSQLBat\SpiraQuery\SpiraQuery\obj\Debug\SpiraQuery.pdb
+C:\Users\augov\Desktop\ForThembsExecuteSQLBat\SpiraQuery\SpiraQuery\obj\Debug\SpiraQuery.csprojAssemblyReference.cache
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\bin\Debug\SpiraQuery.exe.config
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\bin\Debug\SpiraQuery.exe.manifest
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\bin\Debug\SpiraQuery.application
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\bin\Debug\SpiraQuery.exe
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\bin\Debug\SpiraQuery.pdb
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\obj\Debug\SpiraQuery.exe.manifest
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\obj\Debug\SpiraQuery.application
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\obj\Debug\SpiraQuery.exe
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\obj\Debug\SpiraQuery.pdb

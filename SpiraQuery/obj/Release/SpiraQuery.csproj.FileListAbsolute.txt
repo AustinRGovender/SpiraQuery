@@ -1,0 +1,11 @@
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\bin\Release\SpiraQuery.exe.config
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\bin\Release\SpiraQuery.exe.manifest
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\bin\Release\SpiraQuery.application
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\bin\Release\SpiraQuery.xml
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\bin\Release\SpiraQuery.exe
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\bin\Release\SpiraQuery.pdb
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\obj\Release\SpiraQuery.exe.manifest
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\obj\Release\SpiraQuery.application
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\obj\Release\SpiraQuery.exe
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\obj\Release\SpiraQuery.pdb
+C:\Users\augov\Desktop\SpiraQuery\SpiraQuery\obj\Release\SpiraQuery.csprojAssemblyReference.cache
