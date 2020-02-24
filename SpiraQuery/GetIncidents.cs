@@ -49,6 +49,7 @@ namespace SpiraQuery
                     {
                         //set all text in created csv to Empty to avoid appending to a huge list.
                         sw.WriteLine(string.Empty);
+                        sw.WriteLine(string.Format("Project Name, Incident ID, Incident Description, Incident Severity, Incident Status, Logged Date, Release Number"));
                     }
 
                     while (reader.Read())

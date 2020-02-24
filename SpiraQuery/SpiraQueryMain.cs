@@ -100,7 +100,7 @@ namespace SpiraQuery
 
                     if (isWriteIncidentsTrue != "y")
                     {
-                        Console.WriteLine("Moving On . . .");
+                        Console.WriteLine("\r\n Moving On . . .");
                     }
                     else
                     {
@@ -147,6 +147,7 @@ namespace SpiraQuery
                 }
             }
 
+            
             catch (Exception e)
             {
                 Console.WriteLine(e.ToString());
